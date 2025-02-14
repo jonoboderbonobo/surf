@@ -81,35 +81,21 @@ TBD
 You can use [Skywater130 PDK](https://skywater-pdk.readthedocs.io/en/main/) and soon [IHPs](https://www.ihp-microelectronics.com/de) SG13G2 derived [BiCMOS 130nm PDK](https://github.com/IHP-GmbH/IHP-Open-PDK-docs). <br>
 Usage of those two PDKs is free of charge and required no NDA. Prototyping with Tiny Tapeout can also be significantly cheaper than conventional [Multi Project Wafer (MPW)](https://en.wikipedia.org/wiki/Multi-project_wafer_service) prototyping, depending on your requirements. You can compare [Europractice MPW Pricing](https://europractice-ic.com/schedules-prices-2025/) with [TinyTapeout Pricing](https://app.tinytapeout.com/calculator?tiles=1&pcbs=1).
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 # References
 <a id="1">[1]</a> 
 <br>
 [M. Sitti, Mobile microrobotics. in Intelligent robotics and autonomous agents. Cambridge, Mass: The MIT press, 2018 ](https://archive.org/details/mobilemicrorobot0000sitt/page/2/mode/2up)
 <br>
-
 <a id="1.1">[1.1]</a> <br>
 [Mobile Microrobotics Definition (Page 2).](https://archive.org/details/mobilemicrorobot0000sitt/page/2/mode/2up)
-
 <br>
-
 <a id="1.2">[1.2]</a> <br>
 [Mobile Microrobotics Definition (Page 4, 225 - 240).](https://archive.org/details/mobilemicrorobot0000sitt/page/4/mode/2up)
-
 <br>
-
-<a id="88">[88]</a> <br>
+<a id="8">[8]</a> <br>
 [U. Bozuyuk, P. Wrede, E. Yildiz, and M. Sitti, “Roadmap for Clinical Translation of Mobile Microrobotics,” Advanced Materials, vol. 36, no. 23, p. 2311462, Jun. 2024, doi: 10.1002/adma.202311462.](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202311462)
-
-
-<a id="99">[99]</a> <br>
-https://tinytapeout.com
 <br>
+<a id="9">[9]</a> <br>
+https://tinytapeout.com
 <br>
 <br>
