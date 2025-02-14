@@ -1,4 +1,4 @@
-#  Open Source Mobile Micro-robotics Framework for Onboard Actuation 🏄‍♀️ 
+#  Open Source Mobile Microrobotics Framework for Onboard Actuation 🏄‍♀️ 
 This is the Alpha version of the "Open Source Mobile Microrobotic Framework" - SuRF🏄‍♀️
 <br>
 <br>
