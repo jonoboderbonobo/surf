@@ -1,10 +1,5 @@
 #  Open Source Mobile Microrobotics Framework for Onboard Actuation 🏄‍♀️ 
-This is the Alpha version of the "Open Source Mobile Microrobotic Framework" - SuRF🏄‍♀️
-<br>
-<br>
 If you are well-versed in Microrobotics you can skip to the detailed information in the projects [documentation](docs/main.md). <br><br>
-If you are just here for the electronic circuits in Tiny Tapeout 10 I recommend skipping to the [circuit overview](docs/CO.md).
-<br> <br>
 If you are new to the field of **Microrobotics❤️** that's even better! For you I would recommend reading this current Introduction file, before taking a deep dive into the marvelous world of the microscale.
 ## What is a Mobile Microrobot?
 
