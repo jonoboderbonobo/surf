@@ -18,7 +18,7 @@ Even in scientific publications, you will often encounter "microrobots" despite 
 
 
 
-## What can a Microrobots used for?
+## What can Microrobots used for?
 There are currently six different fields where potential microrobotic applications could give an econimically advantage over existing prodcuts or prodecures. Either making them more secure, cheaper or possible in the first place. Those Fieldsa are:
 - Healthcare
 - Bioengineering
