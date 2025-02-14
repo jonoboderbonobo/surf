@@ -41,10 +41,6 @@ If you are new to the field of **Microrobotics❤️** that's even better! For y
 <br>
 <br>
 
-> **False Friends**  
-> When you are interested in sub-millimeter robots and look up some existing robots yourself, make sure to verify its dimensions before investing significant time into a specific paper or concept. <br><br>
-Even in scientific publications, you will often encounter "microrobots" despite no dimensions beeing smaller than $1 \text{ mm}$. There is yet no standardized definition of the term _microrobot_ [[1]](#1.1). Additionally terms like micro, nano, AI or quantum are often used as buzzwords, not only for marketing but also for securing research funds, which encourages the ambigious and imprecise use of the word "micro".
-
 
 
 ### What can Microrobots used for?
