@@ -1,7 +1,36 @@
-#  Open Source Mobile Microrobotics Framework for Onboard Actuation 🏄‍♀️ 
-If you are well-versed in Microrobotics you can skip to the detailed information in the projects [documentation](docs/main.md). <br><br>
-If you are new to the field of **Microrobotics❤️** that's even better! For you I would recommend reading this current Introduction file, before taking a deep dive into the marvelous world of the microscale.
-## What is a Mobile Microrobot?
+##  Open Source Mobile Microrobotics Framework for Onboard Actuation 🏄‍♀️ 
+
+### Scope of SuRF 🏄‍♀️  
+- Providing Silicon Proven-, Tested-, Open Source-, Reusable **Circuit-Blocks** for microrobotics.
+- Up-to-date classification and visualizing of cutting edge advancements
+- TBD
+- TBD
+- TBD
+
+### Goal of SuRF 🏄‍♀️
+The goal of SuRF 🏄‍♀️ is to accelerate advances in the field of untethered mobile microrobotics. Or in economics terms: **Drive Innovation**. To achieve this goal multiple problems have been identified:
+
+- lack of existing products
+- lack of research funding
+- lack of talents
+- lack of societal attention
+
+SuRF 🏄‍♀️ will attack those problems simultaniously by 
+- lowering engagement barrier for students and hobbyists
+- reducing development cost for companies
+    - reducing development time
+    - reducing redundant work
+- reducing product cost for customers
+    - proving On-Board Actuation feasibility
+- minimizing failure rate for new companies
+    - keeping track and visualizing customer needs (e.g doctors)
+    - 
+
+If you are well-versed in Microrobotics you can skip to the detailed information in the projects [documentation](docs/documentation.md). <br><br>
+If you are new to the field of **Microrobotics❤️** that's even better! For you I would recommend reading this current Introduction file or the corresponding [visual introduction to microrobotics](barrier-free-introduction.md), before taking a deep dive into the marvelous world of the microscale.
+
+
+### What is a Mobile Microrobot?
 
 ```
     "A mobile microrobot [...] [is] a mobile robotic system where its untethered 
@@ -18,36 +47,24 @@ Even in scientific publications, you will often encounter "microrobots" despite 
 
 
 
-## What can Microrobots used for?
-There are currently six different fields where potential microrobotic applications could give an econimically advantage over existing prodcuts or prodecures. Either making them more secure, cheaper or possible in the first place. Those Fieldsa are:
-- Healthcare
+### What can Microrobots used for?
+There are currently five different fields where potential microrobotic applications could give an econimically advantage over existing prodcuts or prodecures. Either making them more secure, cheaper or possible in the first place. Those Fieldsa are Healthcare, Bioengineering, Micromanufacturing, Microfluidics, Mobile Sensor Networks, Mobile Sensor Networks[[1]](#1.2).
+- Healthcare: 
+    - [Cargo Delivery](https://pi.is.mpg.de/research_projects/cargo-drug-gene-etc) []()[]()[]()
+    - [Surgery](https://en.wikipedia.org/wiki/Minimally_invasive_procedure) []()[]()[]()
+    - [Blood-Brain Barrier (BBB)](https://www.fusfoundation.org/the-technology/mechanisms-of-action/blood-brain-barrier-opening/) opening []()[]()[]()
+    - [Biofilm](https://en.wikipedia.org/wiki/Biofilm) removal []()[]()[]()
+    - [Fertilazation](https://en.wikipedia.org/wiki/Human_fertilization) []()[]()[]()
+    - [Embolization](https://en.wikipedia.org/wiki/Embolization) []()[]()[]()
+    - [Thromoblysis](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/heart-and-vascular/vascular-surgery-and-endovascular-therapy/vascular-procedures/thrombolysis) []()[]()[]() 
 - Bioengineering
 - Micromanufacturing
 - Microfluidics
 - Mobile Sensor Networks
-- Environmental Remediation
 
-[[1]](#1.2)
+Additionally Environmental Remediation is also a possible application for microrobotics, but because of their relatively simplistic behavior, no need for communication and low-cost requirements, microrobots for Environmental Remediation will likely not include any CMOS Technology but rather manipulate existing Biological organisms or particles to achieve specific movement, reaction and replication.
 
-
-
-### Healthcare
-[Cargo Delivery](https://pi.is.mpg.de/research_projects/cargo-drug-gene-etc) []()[]()[]() <br>
-[Surgery](https://en.wikipedia.org/wiki/Minimally_invasive_procedure) []()[]()[]() <br>
-[Blood-Brain Barrier (BBB)](https://www.fusfoundation.org/the-technology/mechanisms-of-action/blood-brain-barrier-opening/) opening []()[]()[]() <br>
-[Biofilm](https://en.wikipedia.org/wiki/Biofilm) removal []()[]()[]() <br>
-[Fertilazation](https://en.wikipedia.org/wiki/Human_fertilization) []()[]()[]() <br>
-[Embolization](https://en.wikipedia.org/wiki/Embolization) []()[]()[]() <br>
-[Thromoblysis](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/heart-and-vascular/vascular-surgery-and-endovascular-therapy/vascular-procedures/thrombolysis) []()[]()[]()  <br>
-and many more. 
-### Bioengineering
-### Micromanufacturing
-### Microfluidics
-### Mobile Sensor Networks
-### Environmental Remediation
-
-
-## What types of On-Board Mobile Microrobots are there?
+### What types of On-Board Mobile Microrobots are there?
 Even tho the former definition of mobile microrobots excludes alot of small robots and focusing only on On-Board robots excludes even more, there is still a vast variety of robots with completely different application, energy source, actuation method and locomoation method. But not many of those are beyond the concept stage. Thats the reason 
 <br>
 TBD
@@ -63,29 +80,8 @@ Curerntly many research laboratories focus on manipulating micro-particles with 
 
 
 
-## Goals of SuRF 🏄‍♀️
-The main goal of SuRF 🏄‍♀️ is to propell the field of untethred mobile microrobotics to new heights. To achieve this goal multiple problems have been identified an will be attacked simultaniously. 
-<br>
-TBD
-<br>
-TBD
-<br>
-TBD
-<br>
-TBD
 
-## Scope of SuRF 🏄‍♀️  
-- Providing Silicon Proven, Tested, Open Source, Reusable Circuit-Blocks with focus Microrobotic applications.
-<br>
-TBD
-<br>
-TBD
-<br>
-TBD
-<br>
-TBD
-
-# References
+## References
 <a id="1">[1]</a> 
 <br>
 [M. Sitti, Mobile microrobotics. in Intelligent robotics and autonomous agents. Cambridge, Mass: The MIT press, 2018 ](https://archive.org/details/mobilemicrorobot0000sitt/page/2/mode/2up)
