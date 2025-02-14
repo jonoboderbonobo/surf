@@ -27,14 +27,24 @@ There are currently six different fields where potential microrobotic applicatio
 - Mobile Sensor Networks
 - Environmental Remediation
 
-
 [[1]](#1.2)
 
-Healthcare: <br>
-like Cargo Delivery []()[]()[](), Surgery []()[]()[](), Blood-Brain Barrier [(BBB)](https://www.fusfoundation.org/the-technology/mechanisms-of-action/blood-brain-barrier-opening/) opening []()[]()[](), Biofilm removal []()[]()[](), fertilazation []()[]()[](), Embolization []()[]()[](), Thromoblysis []()[]()[]() and many more. 
 
 
-<br>
+### Healthcare
+[Cargo Delivery](https://pi.is.mpg.de/research_projects/cargo-drug-gene-etc) []()[]()[]() <br>
+[Surgery](https://en.wikipedia.org/wiki/Minimally_invasive_procedure) []()[]()[]() <br>
+[Blood-Brain Barrier (BBB)](https://www.fusfoundation.org/the-technology/mechanisms-of-action/blood-brain-barrier-opening/) opening []()[]()[]() <br>
+[Biofilm](https://en.wikipedia.org/wiki/Biofilm) removal []()[]()[]() <br>
+[Fertilazation](https://en.wikipedia.org/wiki/Human_fertilization) []()[]()[]() <br>
+[Embolization](https://en.wikipedia.org/wiki/Embolization) []()[]()[]() <br>
+[Thromoblysis](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/heart-and-vascular/vascular-surgery-and-endovascular-therapy/vascular-procedures/thrombolysis) []()[]()[]()  <br>
+and many more. 
+### Bioengineering
+### Micromanufacturing
+### Microfluidics
+### Mobile Sensor Networks
+### Environmental Remediation
 
 
 ## What types of On-Board Mobile Microrobots are there?
