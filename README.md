@@ -85,12 +85,6 @@ TBD
 <br>
 TBD
 
-### Manufacturing Prototype - Tiny Tapeout
-
-"Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip." [[99]](#99) <br>
-You can use [Skywater130 PDK](https://skywater-pdk.readthedocs.io/en/main/) and soon [IHPs](https://www.ihp-microelectronics.com/de) SG13G2 derived [BiCMOS 130nm PDK](https://github.com/IHP-GmbH/IHP-Open-PDK-docs). <br>
-Usage of those two PDKs is free of charge and required no NDA. Prototyping with Tiny Tapeout can also be significantly cheaper than conventional [Multi Project Wafer (MPW)](https://en.wikipedia.org/wiki/Multi-project_wafer_service) prototyping, depending on your requirements. You can compare [Europractice MPW Pricing](https://europractice-ic.com/schedules-prices-2025/) with [TinyTapeout Pricing](https://app.tinytapeout.com/calculator?tiles=1&pcbs=1).
-<br>
 # References
 <a id="1">[1]</a> 
 <br>
