@@ -60,18 +60,33 @@ There are currently five different fields where potential microrobotic applicati
 
 Additionally, [Environmental Remediation](https://en.wikipedia.org/wiki/Environmental_remediation) is also a possible application for microrobotics, but because of their relatively simplistic behavior, no need for communication and low-cost requirements, microrobots for Environmental Remediation will likely not include any CMOS Technology but rather manipulate existing Biological organisms or particles to achieve specific movement, reaction and replication.
 
-### State of the Art
-Even tho the former definition of mobile microrobots excludes alot of small robots and focusing only on on-board actuated robots excludes even more, there is still a vast variety of robots with completely different application, energy source, actuation method and locomoation method. But not many of those are beyond the concept stage. Thats the reason 
-<br>
-TBD
-<br>
-TBD
-<br>
-TBD
-<br>
-TBD
-<br>
-<br>
+# The lack of popularity of electronics
+Many microrobotic researches see CMOS technology unsuited for microrobot applications [][][][][]. 
+Those reasons can generally divided into short-term problems and long-term problems.
+
+## Short-term problems:
+- Cost
+- Power
+
+### Cost
+### Power
+## Long-term problems:
+- Reliabiity
+- Versatility
+- Scalability
+
+### Reliability
+### Versatility
+### Scalability
+
+# The need for electronics
+
+### Aquiring deeper understanding of the Micro- and Nanoworld
+### Lowering cost of upcoming microrobotic products
+
+# State of the Art
+Even tho the former definition of mobile microrobots excludes alot of small robots and focusing only on on-board actuated robots excludes even more, there is still a vast variety of robots with completely different application, energy source, actuation method and locomoation method. But not many of those are beyond the concept stage.
+<br> ... <br>
 Curerntly many research laboratories focus on manipulating micro-particles with external magnetic fields by using machines similar to an MRI-scanner. This has the big advantage to be able to realize real world medical applications in the coming years.
 
 
