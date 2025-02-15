@@ -1,11 +1,11 @@
-##  Open Source Mobile Microrobotics Framework for Onboard Actuation 🏄‍♀️ 
+# ⚠️⚠️ Site under construction ⚠️⚠️
+##  Open Source Mobile Microrobotics Framework 🏄‍♀️ 
 
 ### Scope of SuRF 🏄‍♀️  
-- Providing Silicon Proven-, Tested-, Open Source-, Reusable **Circuit-Blocks** for microrobotics.
-- Up-to-date classification and visualizing of cutting edge advancements
-- TBD
-- TBD
-- TBD
+- Providing low-power, low-area silicon proven-, tested-,open source-, reusable **Circuit-Blocks**.
+- Providing **Fast Development Tool (FDT)** for estimating forces, materials, actuation, locomotion and powering. 
+- Up-to-date classification and visualizing of cutting edge advancements.s
+- Providing interoperability between software
 
 ### Goal of SuRF 🏄‍♀️
 The goal of SuRF 🏄‍♀️ is to accelerate advances in the field of untethered mobile microrobotics. Or in economics terms: **Drive Innovation**. To achieve this goal multiple problems have been identified:
@@ -18,19 +18,15 @@ The goal of SuRF 🏄‍♀️ is to accelerate advances in the field of untethe
 SuRF 🏄‍♀️ will attack those problems simultaniously by 
 - lowering engagement barrier for students and hobbyists
 - reducing development cost for companies
-    - reducing development time
-    - reducing redundant work
 - reducing product cost for customers
-    - proving On-Board Actuation feasibility
 - minimizing failure rate for new companies
-    - keeping track and visualizing customer needs (e.g doctors)
-    - 
+
 
 If you are well-versed in Microrobotics you can skip to the detailed information in the projects [documentation](docs/documentation.md). <br><br>
 If you are new to the field of **Microrobotics❤️** that's even better! For you I would recommend reading this current Introduction file or the corresponding [visual introduction to microrobotics](barrier-free-introduction.md), before taking a deep dive into the marvelous world of the microscale.
 
 
-### What is a Mobile Microrobot?
+# What is a Mobile Microrobot?
 
 ```
     "A mobile microrobot [...] [is] a mobile robotic system where its untethered 
@@ -40,6 +36,10 @@ If you are new to the field of **Microrobotics❤️** that's even better! For y
 [[1]](#1.1)
 <br>
 <br>
+
+| <img src="/img/Antbot.gif" width="450" alt="Antbot" /> | <img src="/img/Millidelta.gif" width="450" alt="Millidelta" /> |
+| :--: | :--: |
+| ✅ A microbot. [[2]](#2) | ❌ Not a microbot. [[3]](#3) |
 
 
 
@@ -58,10 +58,10 @@ There are currently five different fields where potential microrobotic applicati
 - Microfluidics
 - Mobile Sensor Networks
 
-Additionally Environmental Remediation is also a possible application for microrobotics, but because of their relatively simplistic behavior, no need for communication and low-cost requirements, microrobots for Environmental Remediation will likely not include any CMOS Technology but rather manipulate existing Biological organisms or particles to achieve specific movement, reaction and replication.
+Additionally, [Environmental Remediation](https://en.wikipedia.org/wiki/Environmental_remediation) is also a possible application for microrobotics, but because of their relatively simplistic behavior, no need for communication and low-cost requirements, microrobots for Environmental Remediation will likely not include any CMOS Technology but rather manipulate existing Biological organisms or particles to achieve specific movement, reaction and replication.
 
-### What types of On-Board Mobile Microrobots are there?
-Even tho the former definition of mobile microrobots excludes alot of small robots and focusing only on On-Board robots excludes even more, there is still a vast variety of robots with completely different application, energy source, actuation method and locomoation method. But not many of those are beyond the concept stage. Thats the reason 
+### State of the Art
+Even tho the former definition of mobile microrobots excludes alot of small robots and focusing only on on-board actuated robots excludes even more, there is still a vast variety of robots with completely different application, energy source, actuation method and locomoation method. But not many of those are beyond the concept stage. Thats the reason 
 <br>
 TBD
 <br>
