@@ -37,7 +37,7 @@ If you are new to the field of **Microrobotics❤️** that's even better! For y
 <br>
 <br>
 
-| <img src="/img/Antbot.gif" width="350" alt="Antbot" /> | <img src="/img/Millidelta.gif" width="350" alt="Millidelta" /> |
+| <img src="/img/Antbot.gif" width="380" alt="Antbot" /> | <img src="/img/Millidelta.gif" width="400" alt="Millidelta" /> |
 | :--: | :--: |
 | ✅ A microbot. [[2]](#2) | ❌ Not a microbot. [[3]](#3) |
 
